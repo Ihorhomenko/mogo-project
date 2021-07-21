@@ -36,7 +36,7 @@ hr {
   justify-content: center;
   width: 100%;
   height: 100vh;
-  background: url("../images/intro.jpg") center no-repeat;
+  background: url("../img/intro.jpg") center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
@@ -211,11 +211,11 @@ hr {
 
 .section--map {
   padding: 40px 0;
-  background: #e6e6e6 url(../images/images/map_02.jpg) center no-repeat;
+  background: #e6e6e6 url(../img/images/map_02.jpg) center no-repeat;
 }
 
 .section--clients {
-  background: url(../images/divaces/background.jpg) center no-repeat / cover;
+  background: url(../img/divaces/background.jpg) center no-repeat / cover;
 }
 
 .section_header {
@@ -383,7 +383,7 @@ hr {
 /* divaces */
 .section--devices {
   padding-bottom: 0;
-  background: url(../images/divaces/background.jpg) center no-repeat;
+  background: url(../img/divaces/background.jpg) center no-repeat;
   -webkit-background-size: cover;
   background-size: cover;
 }
