@@ -1,3 +1,3 @@
 # mogo-project
-моя перша верстка з шаблону з допомогою відео
+моя перша верстка
 https://ihorhomenko.github.io/mogo-project/
