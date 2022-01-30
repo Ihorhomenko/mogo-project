@@ -1073,6 +1073,17 @@ hr {
     .slider_number {
       font-size: 18px;
     }
+    .stat{
+      margin-left: 25px;
+      margin-right: 25px;
+    }
+    .stat_count{
+      font-size: 60px;
+    }
+    .stat_text{
+      font-size: 12px;
+    }
+    
 }
 @media (max-width: 320px) {
   /* intro */
@@ -1095,5 +1106,18 @@ hr {
   }
   .slider_number {
     font-size: 14px;
+  }
+  .stat{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .stat_item{
+    padding: 50px 5px;
+  }
+  .stat_count{
+    font-size: 25px;
+  }
+  .stat_text{
+    font-size: 10px;
   }
 }
